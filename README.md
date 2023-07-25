@@ -8,6 +8,8 @@ The KPMG Data Analytics Virtual Internship is designed to help us gain a practic
 This repository includes my tasks as a data analytics intern during my KPMG virtual internship. The main tasks completed during the internship are as follows:
 
 
+<img width="994" alt="Screenshot 2023-07-25 at 12 17 37 PM" src="https://github.com/SaraKarsa/Sprocket-Central-Data-analysis/assets/132733506/551ba9dc-c25c-42c3-a17e-2662bb6f0683">
+
 
 ## Links
 
